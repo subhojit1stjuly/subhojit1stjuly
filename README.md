@@ -41,11 +41,6 @@ These are my skills:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=subhojit1stjuly&theme=onedark)
 
-## 📈 Contribution Graph
-
-![Subhojit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=subhojit1stjuly&theme=react-dark)
-
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhojit-pramanik-033789126/)
