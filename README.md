@@ -32,10 +32,6 @@ These are my skills:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Subhojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhojit1stjuly&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhojit1stjuly&layout=compact&theme=radical)
 
 ## 🏆 Trophies
 
